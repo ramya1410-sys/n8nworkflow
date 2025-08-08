@@ -1,4 +1,5 @@
 # n8nworkflow
+Video Link:https://www.loom.com/share/fe002dba2ef54a39bb6d30921cf1dba6?sid=a327c052-25ff-41ea-a360-b1880cf2fcd7
 # 📲 WhatsApp Automation using n8n + Meta API
 
 This project connects WhatsApp (via Meta's Cloud API) to n8n for automated messaging. It includes setup steps for Meta Business Account, WhatsApp API, and n8n workflow integration.
